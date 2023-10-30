@@ -2,11 +2,11 @@
 # :wave: Welcome to the parallelization assignment in BAN400!
 The assignments in BAN400 are organized through Github and Github Classroom. By accepting this assignment, the repository will be copied to your Github user so that you can clone it to your own personal machine and work on it. Then, you simply commit your changes and push back to Github when you are done. You can commit and push as much as you want before the deadline.
 
-**Date:**
+**Date:** 30.10.2023
 
-**Name:**
+**Name:** Fredrik H. Låstad
 
-**Student number:**
+**Student number:** 232073
 
 ## :information_source: Problem 1
 Update the personal information above.
@@ -18,6 +18,7 @@ In Ban420 we worked with an assignment related to the tweedie distribution. See 
 In *this* assignment however, we are interested in executing the script *faster* using parallel computing. Compare the time it takes to solve the problem using the following three different methods: 
 
 1. The solution script as it is now
+	T
 2. The solution script where you rewrite lines 29-35 (i.e. the final loop) to use parallel computing.
 3. The solution script where you rewrite the function MTweedieTests to split the M simulations in more than one core, and otherwise let the original script remain unchanged. 
 
